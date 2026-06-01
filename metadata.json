@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Security Corporate Website",
+  "description": "A high-fidelity interactive cyber security corporate website featuring threat simulation, security services, case studies, risk assessments, and lead-generation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
